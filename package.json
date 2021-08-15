@@ -1,0 +1,17 @@
+{
+  "name": "postman-clone",
+  "version": "1.0.0",
+  "description": "A Clone of the tool called Postman",
+  "main": "index.js",
+  "scripts": {
+    "start": "snowpack dev"
+  },
+  "author": "Ravi Chaudhary",
+  "license": "ISC",
+  "devDependencies": {
+    "snowpack": "^3.8.6"
+  },
+  "dependencies": {
+    "bootstrap": "^5.1.0"
+  }
+}
